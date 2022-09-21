@@ -12,7 +12,6 @@ body {
 .attribution {
   position: absolute;
   text-align: center;
-  border: 1px solid red;
   width: 100%;
 }
 .attribution a {
